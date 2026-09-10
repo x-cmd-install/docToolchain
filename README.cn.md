@@ -4,7 +4,7 @@
 
 a AsciiDoc Toolchain for technical Software Documentation, focused on Software Architecture Documentation
 
-![docToolchain](https://repo.x-cmd.io/docToolchain.svg)
+![docToolchain](https://repo.x-cmd.io/docToolchain.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,16 @@ x install docToolchain
 - **最新版本**: `v3.5.0` (2026-04-19)
 - **最近提交**: 2026-06-26
 - **Release 含资产**: 1 个
-- **发布时间**: 2026-04-19T08:53:45Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [docToolchain-3.5.0.zip](https://github.com/docToolchain/docToolchain/releases/download/v3.5.0/docToolchain-3.5.0.zip) | 24.0 MiB | `other` |
 
 ## 流行度
 
-- **Star**: 861 · **Fork**: 238 · **开放 issue**: 830 · **贡献者**: 120
+- **Star**: 863 · **Fork**: 238 · **开放 issue**: 830 · **贡献者**: 120
 
 ## 累计统计
 
@@ -72,4 +77,4 @@ docToolchain 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:24:45Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:08:39Z._

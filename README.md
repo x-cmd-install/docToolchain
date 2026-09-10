@@ -23,11 +23,16 @@ x install docToolchain
 - **Latest**: `v3.5.0` (2026-04-19)
 - **Last commit**: 2026-06-26
 - **Assets in release**: 1
-- **Published**: 2026-04-19T08:53:45Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [docToolchain-3.5.0.zip](https://github.com/docToolchain/docToolchain/releases/download/v3.5.0/docToolchain-3.5.0.zip) | 24.0 MiB | `other` |
 
 ## Popularity
 
-- **Stars**: 861 · **Forks**: 238 · **Open issues**: 830 · **Contributors**: 120
+- **Stars**: 863 · **Forks**: 238 · **Open issues**: 830 · **Contributors**: 120
 
 ## Totals (cumulative)
 
@@ -68,8 +73,8 @@ Lowest-scoring checks:
 Install metadata for docToolchain lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `docToolchain` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/docToolchain.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/docToolchain.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:24:44Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T17:08:39Z._
