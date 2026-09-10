@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 25128453,
       "digest": "sha256:952f99346a07e1f4464c0497e50c6e8edc9b46824a27366b95104ed367cc28c7",
-      "download_count": 2476,
+      "download_count": 2494,
       "created_at": "2026-04-19T08:53:19Z",
       "updated_at": "2026-04-19T08:53:34Z",
       "browser_download_url": "https://github.com/docToolchain/docToolchain/releases/download/v3.5.0/docToolchain-3.5.0.zip"
