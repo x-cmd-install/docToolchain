@@ -14,13 +14,13 @@ x install docToolchain
 
 ## Code insight
 
-Total: **33,857** lines of code across **243** files in the top 5 languages.
+Total: **34,042** lines of code across **246** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Svg | 9,558 | 0 | 0 | 7 |
-| AsciiDoc | 7,330 | 83 | 2,808 | 137 |
-| Groovy | 6,675 | 1,013 | 1,020 | 77 |
+| AsciiDoc | 7,345 | 84 | 2,813 | 137 |
+| Groovy | 6,845 | 1,072 | 1,078 | 80 |
 | JavaScript | 2,062 | 1,235 | 478 | 12 |
 | Json | 1,909 | 0 | 0 | 10 |
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.5.0` (2026-04-19)
-- **Last commit**: 2026-06-26
+- **Last commit**: 2026-09-14
 - **Assets in release**: 1
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 637 · **Open PRs**: 25 · **Closed issues**: 558 · **Open issues**: 272 · **Commits**: 2566
+- **Releases**: 39 · **Merged PRs**: 639 · **Open PRs**: 25 · **Closed issues**: 558 · **Open issues**: 272 · **Commits**: 2571
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-07-16 | 0 | 1 | 4 | 0 | 5 | 0 |
-| 90d | 2026-06-16 | 0 | 56 | 8 | 16 | 31 | 1 |
-| last180d | 2026-03-18 | 1 | 67 | 11 | 16 | 39 | 9 |
-| 360d | 2025-09-19 | 1 | 77 | 13 | 22 | 44 | 24 |
-| last720d | 2024-09-24 | 2 | 105 | 18 | 35 | 59 | 147 |
+| 30d | 2026-08-16 | 0 | 2 | 2 | 0 | 1 | 3 |
+| last60d | 2026-07-17 | 0 | 3 | 4 | 0 | 5 | 3 |
+| 90d | 2026-06-17 | 0 | 58 | 8 | 16 | 31 | 4 |
+| last180d | 2026-03-19 | 1 | 69 | 11 | 16 | 39 | 12 |
+| 360d | 2025-09-20 | 1 | 79 | 13 | 22 | 44 | 27 |
+| last720d | 2024-09-25 | 2 | 107 | 18 | 35 | 59 | 152 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for docToolchain lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:25:08Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:34:19Z._
