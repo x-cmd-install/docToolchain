@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 867 · **Forks**: 242 · **Open issues**: 839 · **Contributors**: 120
+- **Stars**: 868 · **Forks**: 242 · **Open issues**: 839 · **Contributors**: 120
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 639 · **Open PRs**: 26 · **Closed issues**: 558 · **Open issues**: 281 · **Commits**: 2571
+- **Releases**: 39 · **Merged PRs**: 639 · **Open PRs**: 27 · **Closed issues**: 558 · **Open issues**: 281 · **Commits**: 2571
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 2 | 2 | 0 | 10 | 3 |
-| last60d | 2026-08-07 | 0 | 3 | 4 | 0 | 12 | 3 |
-| 90d | 2026-07-08 | 0 | 3 | 5 | 0 | 15 | 3 |
-| last180d | 2026-04-09 | 1 | 61 | 11 | 16 | 41 | 11 |
-| 360d | 2025-10-11 | 1 | 78 | 14 | 20 | 51 | 24 |
-| last720d | 2024-10-16 | 2 | 105 | 19 | 35 | 68 | 143 |
+| 30d | 2026-09-07 | 0 | 2 | 3 | 0 | 10 | 3 |
+| last60d | 2026-08-08 | 0 | 3 | 5 | 0 | 12 | 3 |
+| 90d | 2026-07-09 | 0 | 3 | 6 | 0 | 14 | 3 |
+| last180d | 2026-04-10 | 1 | 61 | 11 | 16 | 41 | 11 |
+| 360d | 2025-10-12 | 1 | 78 | 15 | 20 | 51 | 24 |
+| last720d | 2024-10-17 | 2 | 105 | 20 | 35 | 68 | 138 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for docToolchain lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:44:26Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:18:39Z._
