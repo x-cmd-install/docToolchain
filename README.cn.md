@@ -30,8 +30,8 @@ x install docToolchain
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
@@ -48,22 +48,22 @@ x install docToolchain
 
 ## 流行度
 
-- **Star**: 868 · **Fork**: 242 · **开放 issue**: 839 · **贡献者**: 120
+- **Star**: 868 · **Fork**: 243 · **开放 issue**: 839 · **贡献者**: 120
 
 ## 累计统计
 
-- **发布数**: 39 · **已合并 PR**: 639 · **开放 PR**: 27 · **已关闭 issue**: 558 · **开放 issue**: 281 · **提交数**: 2571
+- **发布数**: 39 · **已合并 PR**: 639 · **开放 PR**: 28 · **已关闭 issue**: 558 · **开放 issue**: 281 · **提交数**: 2571
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 2 | 2 | 0 | 9 | 0 |
-| last60d | 2026-08-14 | 0 | 2 | 4 | 0 | 10 | 3 |
-| 90d | 2026-07-15 | 0 | 3 | 6 | 0 | 14 | 3 |
-| last180d | 2026-04-16 | 1 | 61 | 11 | 16 | 41 | 11 |
-| 360d | 2025-10-18 | 1 | 78 | 15 | 19 | 51 | 24 |
-| last720d | 2024-10-23 | 2 | 104 | 20 | 34 | 68 | 135 |
+| 30d | 2026-09-14 | 0 | 0 | 3 | 0 | 9 | 0 |
+| last60d | 2026-08-15 | 0 | 2 | 5 | 0 | 10 | 3 |
+| 90d | 2026-07-16 | 0 | 3 | 7 | 0 | 14 | 3 |
+| last180d | 2026-04-17 | 1 | 61 | 12 | 16 | 41 | 11 |
+| 360d | 2025-10-19 | 1 | 78 | 16 | 19 | 51 | 24 |
+| last720d | 2024-10-24 | 2 | 104 | 21 | 34 | 68 | 135 |
 
 ## Release 资产
 
@@ -80,4 +80,4 @@ docToolchain 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261013.yml` · 2026-10-13T07:22:33Z._
+_数据快照: `data/card/261014.yml` · 2026-10-14T05:15:24Z._
