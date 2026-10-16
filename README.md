@@ -14,12 +14,12 @@ x install docToolchain
 
 ## Code insight
 
-Total: **34,042** lines of code across **246** files in the top 5 languages.
+Total: **34,043** lines of code across **246** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Svg | 9,558 | 0 | 0 | 7 |
-| AsciiDoc | 7,345 | 84 | 2,813 | 137 |
+| AsciiDoc | 7,346 | 84 | 2,813 | 137 |
 | Groovy | 6,845 | 1,072 | 1,078 | 80 |
 | JavaScript | 2,062 | 1,235 | 478 | 12 |
 | Json | 1,909 | 0 | 0 | 10 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.5.0` (2026-04-19)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-10-15
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 868 · **Forks**: 243 · **Open issues**: 839 · **Contributors**: 120
+- **Stars**: 868 · **Forks**: 243 · **Open issues**: 840 · **Contributors**: 120
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 639 · **Open PRs**: 28 · **Closed issues**: 558 · **Open issues**: 281 · **Commits**: 2571
+- **Releases**: 39 · **Merged PRs**: 647 · **Open PRs**: 26 · **Closed issues**: 559 · **Open issues**: 281 · **Commits**: 2577
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 0 | 3 | 0 | 9 | 0 |
-| last60d | 2026-08-16 | 0 | 2 | 5 | 0 | 10 | 3 |
-| 90d | 2026-07-17 | 0 | 3 | 7 | 0 | 14 | 3 |
-| last180d | 2026-04-18 | 1 | 61 | 12 | 16 | 41 | 11 |
-| 360d | 2025-10-20 | 1 | 78 | 16 | 19 | 51 | 24 |
-| last720d | 2024-10-25 | 2 | 104 | 21 | 34 | 68 | 135 |
+| 30d | 2026-09-16 | 0 | 8 | 1 | 1 | 9 | 3 |
+| last60d | 2026-08-17 | 0 | 10 | 3 | 1 | 10 | 6 |
+| 90d | 2026-07-18 | 0 | 11 | 5 | 1 | 14 | 6 |
+| last180d | 2026-04-19 | 1 | 69 | 10 | 17 | 41 | 14 |
+| 360d | 2025-10-21 | 1 | 86 | 14 | 20 | 51 | 27 |
+| last720d | 2024-10-26 | 2 | 112 | 19 | 35 | 68 | 141 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for docToolchain lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:57:15Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:58:40Z._
