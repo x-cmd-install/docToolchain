@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 875 · **Forks**: 243 · **Open issues**: 840 · **Contributors**: 120
+- **Stars**: 875 · **Forks**: 243 · **Open issues**: 840 · **Contributors**: 119
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 7 | 2 | 1 | 0 | 2 |
-| last60d | 2026-09-09 | 0 | 11 | 3 | 1 | 9 | 6 |
-| 90d | 2026-08-10 | 0 | 11 | 4 | 1 | 10 | 6 |
-| last180d | 2026-05-12 | 0 | 69 | 10 | 17 | 41 | 13 |
-| 360d | 2025-11-13 | 1 | 85 | 15 | 20 | 51 | 26 |
-| last720d | 2024-11-18 | 2 | 112 | 20 | 35 | 65 | 140 |
+| 30d | 2026-10-10 | 0 | 7 | 2 | 1 | 0 | 0 |
+| last60d | 2026-09-10 | 0 | 11 | 2 | 1 | 9 | 3 |
+| 90d | 2026-08-11 | 0 | 11 | 4 | 1 | 10 | 6 |
+| last180d | 2026-05-13 | 0 | 69 | 10 | 17 | 41 | 13 |
+| 360d | 2025-11-14 | 1 | 85 | 15 | 20 | 51 | 26 |
+| last720d | 2024-11-19 | 2 | 112 | 20 | 35 | 65 | 140 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for docToolchain lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:27:26Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:54:33Z._
