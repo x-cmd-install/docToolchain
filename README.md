@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 1 | 0 | 0 | 3 | 0 |
-| last60d | 2026-09-28 | 0 | 9 | 2 | 1 | 4 | 3 |
-| 90d | 2026-08-29 | 0 | 11 | 3 | 1 | 13 | 6 |
-| last180d | 2026-05-31 | 0 | 68 | 10 | 17 | 43 | 12 |
-| 360d | 2025-12-02 | 1 | 85 | 15 | 20 | 54 | 26 |
-| last720d | 2024-12-07 | 2 | 110 | 20 | 35 | 68 | 136 |
+| 30d | 2026-10-29 | 0 | 0 | 0 | 0 | 3 | 0 |
+| last60d | 2026-09-29 | 0 | 9 | 2 | 1 | 3 | 3 |
+| 90d | 2026-08-30 | 0 | 11 | 3 | 1 | 13 | 6 |
+| last180d | 2026-06-01 | 0 | 68 | 10 | 17 | 43 | 12 |
+| 360d | 2025-12-03 | 1 | 85 | 15 | 20 | 54 | 26 |
+| last720d | 2024-12-08 | 2 | 110 | 20 | 35 | 68 | 136 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for docToolchain lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:02:20Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:47:10Z._
